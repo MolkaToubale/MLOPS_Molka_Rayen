@@ -1,4 +1,7 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = gdrive://1mwx8q3GMux1QwV0G3NaNgeRAOraZrsbW
+    url = s3://my-dataset
+    endpointurl = https://ffewlmmbgrsmszznymlt.storage.supabase.co/storage/v1/s3
+    access_key_id = 4bd9f00e0f69b419f289df36a80aebba
+    secret_access_key = d243d21028c9d2a38ec605f34a22a454da16399100b9c241f56b61fd785c6821
