@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/molka/OneDrive/Documents/mlops/MLOPS_Molka_Rayen/mlruns/0/ab6cb8c710184c9b911e0ec75c8e77a9/artifacts
+end_time: 1759396523684
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab6cb8c710184c9b911e0ec75c8e77a9
+run_name: casual-koi-975
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759396518150
+status: 3
+tags: []
+user_id: molka

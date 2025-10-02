@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/molka/OneDrive/Documents/mlops/MLOPS_Molka_Rayen/mlruns/0/6a1c251ef5d543cfb325f371a65a02f6/artifacts
+end_time: 1759394757816
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a1c251ef5d543cfb325f371a65a02f6
+run_name: defiant-hen-349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759394752388
+status: 3
+tags: []
+user_id: molka

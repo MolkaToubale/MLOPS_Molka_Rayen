@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/molka/OneDrive/Documents/mlops/MLOPS_Molka_Rayen/mlruns/0/d727a047ae7c44c483e7aba2f9ab1530/artifacts
+end_time: 1759394894216
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d727a047ae7c44c483e7aba2f9ab1530
+run_name: flawless-stag-167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759394888792
+status: 3
+tags: []
+user_id: molka

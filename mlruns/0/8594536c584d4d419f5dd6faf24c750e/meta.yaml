@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/molka/OneDrive/Documents/mlops/MLOPS_Molka_Rayen/mlruns/0/8594536c584d4d419f5dd6faf24c750e/artifacts
+end_time: 1759395527054
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8594536c584d4d419f5dd6faf24c750e
+run_name: inquisitive-gull-266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759395521591
+status: 3
+tags: []
+user_id: molka

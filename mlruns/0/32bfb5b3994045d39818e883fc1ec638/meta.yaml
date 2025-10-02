@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/molka/OneDrive/Documents/mlops/MLOPS_Molka_Rayen/mlruns/0/32bfb5b3994045d39818e883fc1ec638/artifacts
+end_time: 1759396305554
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32bfb5b3994045d39818e883fc1ec638
+run_name: welcoming-eel-200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759396299644
+status: 3
+tags: []
+user_id: molka

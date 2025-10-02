@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/molka/OneDrive/Documents/mlops/MLOPS_Molka_Rayen/mlruns/0/cb2412f3b21e4fb2b74bf0d955f40a0b/artifacts
+end_time: 1759400419463
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb2412f3b21e4fb2b74bf0d955f40a0b
+run_name: overjoyed-fly-507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759400411056
+status: 3
+tags: []
+user_id: molka

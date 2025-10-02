@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/molka/OneDrive/Documents/mlops/MLOPS_Molka_Rayen/mlruns/0/08fc19fd76fd437785cbd5dea7ad7914/artifacts
+end_time: 1759396621002
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08fc19fd76fd437785cbd5dea7ad7914
+run_name: salty-cow-565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759396615654
+status: 3
+tags: []
+user_id: molka

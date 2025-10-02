@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/molka/OneDrive/Documents/mlops/MLOPS_Molka_Rayen/mlruns/0/fe5775740cfc41fcac32ed77fd11f0f8/artifacts
+end_time: 1759394806271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe5775740cfc41fcac32ed77fd11f0f8
+run_name: popular-hawk-640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759394800834
+status: 3
+tags: []
+user_id: molka

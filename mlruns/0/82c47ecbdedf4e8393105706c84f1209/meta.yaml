@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/molka/OneDrive/Documents/mlops/MLOPS_Molka_Rayen/mlruns/0/82c47ecbdedf4e8393105706c84f1209/artifacts
+end_time: 1759396343572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82c47ecbdedf4e8393105706c84f1209
+run_name: rebellious-rat-207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759396338037
+status: 3
+tags: []
+user_id: molka

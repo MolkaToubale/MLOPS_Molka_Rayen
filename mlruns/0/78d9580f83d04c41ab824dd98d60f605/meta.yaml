@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/molka/OneDrive/Documents/mlops/MLOPS_Molka_Rayen/mlruns/0/78d9580f83d04c41ab824dd98d60f605/artifacts
+end_time: 1759393783034
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78d9580f83d04c41ab824dd98d60f605
+run_name: persistent-shad-207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759393775055
+status: 3
+tags: []
+user_id: molka

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/molka/OneDrive/Documents/mlops/MLOPS_Molka_Rayen/mlruns/0/models/m-1e591bc498d14ebfb080d77a09b08d0d/artifacts
+creation_timestamp: 1759393775231
+experiment_id: '0'
+last_updated_timestamp: 1759393783015
+model_id: m-1e591bc498d14ebfb080d77a09b08d0d
+model_type: null
+name: tfidf_svm_model
+source_run_id: 78d9580f83d04c41ab824dd98d60f605
+status: 2
+status_message: null
